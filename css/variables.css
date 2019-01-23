@@ -1,0 +1,20 @@
+:root {
+    --red: red;
+    --orange: orange;
+    --yellow: yellow;
+    --green: green;
+    --blue: blue;
+    --indigo: indigo;
+    --violet: violet;
+    --brown: brown;
+    --grey: grey;
+    --darkVanilla: #d2cca1;
+    --sonicSilver: #757780;
+    --ming: #387780;
+    --timberWolf: #dbd4d3;
+    --amaranth: #e83151;
+
+    --fancyFont: 'Coiny', cursive;
+    --serifFont: 'Raleway', sans-serif;
+    --coolFont: 'ZCOOL QingKe HuangYou', cursive;
+}

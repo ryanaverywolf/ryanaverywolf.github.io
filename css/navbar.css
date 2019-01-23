@@ -1,0 +1,8 @@
+.navbar-light .navbar-brand {
+    font-family: 'Libre Franklin', sans-serif;
+    color: var(--darkVanilla);
+}
+.nav-link {
+    font-family: 'Libre Franklin', sans-serif;
+    color: var(--darkVanilla);
+}

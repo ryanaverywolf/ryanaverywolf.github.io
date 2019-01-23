@@ -1,0 +1,13 @@
+body {
+    background: #dbd4d3;
+    font-family: 'Libre Franklin', sans-serif;
+    color: var(--sonicSilver);
+}
+
+.jumbotron {
+    font-family: 'Libre Franklin', sans-serif;
+    background-color: #d2cca1;
+    color: #387780;
+}
+
+
